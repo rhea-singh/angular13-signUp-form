@@ -17,11 +17,14 @@ It's a work in progress, and test files will be available soon.
 
 **Commands**
 - run:
+```
  npm start
 ```
 - install: 
+```
  npm install
 ```
 - test: 
+```
 npm test
-
+```
