@@ -1,0 +1,23 @@
+p {
+  font-family: Lato;
+}
+
+#root {
+  padding: 30px;
+}
+
+.main-container{
+  /* background-color: #ff7f82c7; */
+}
+
+.register-form {
+  max-width: 500px;
+  margin: auto;
+  padding: 5% 5%;
+  background-color: #fb8f4bc2;
+}
+
+.btn{
+  margin-top: 5%;
+  
+}
